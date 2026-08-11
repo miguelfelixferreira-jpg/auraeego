@@ -1,4 +1,11 @@
 body{
 
-   background-color: powderblue; 
+   background-color: rgb(196, 27, 14); 
+}
+h1 {
+
+   font-size: 100px;
+   color:rgb(14, 134, 238);
+  text-transform: uppercase; 
+  
 }
